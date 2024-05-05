@@ -1,9 +1,9 @@
 {
-"name": "VAJIRA-MD",    
+"name": "ᴀꜱɪᴛʜᴀ-ᴍᴅ",    
 "version": "1.0.0",
 "scripts": {
-"start": "pm2 start index.js --deep-monitoring --attach --name VAJIRA-MD",
-"stop": "pm2 stop VAJIRA-MD",
+"start": "pm2 start index.js --deep-monitoring --attach --name ᴀꜱɪᴛʜᴀ-ᴍᴅ",
+"stop": "pm2 stop ᴀꜱɪᴛʜᴀ-ᴍᴅ",
 "restart": "git pull && npm stop && npm start",
 "stash": "git stash && git stash drop"
 },
@@ -19,7 +19,7 @@
 "youtubedl-core": "^4.11.7",
 "inrl-dl": "^1.0.0",
 "removebg-wrapper": "^1.0.3",
-"awesome-phonenumber": "^2.64.0",
+"awesome-phonenumber": "94705676116",
 "express": "latest",
 "sirasa-news": "latest",   
 "tech-news-scraper": "latest",
